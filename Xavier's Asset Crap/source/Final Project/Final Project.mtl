@@ -1,0 +1,319 @@
+newmtl Concrete,_Cast-in-Place_gray
+Ka 0.509803921568627 0.52156862745098 0.466666666666667
+Kd 0.509803921568627 0.52156862745098 0.466666666666667
+d 1
+map_Ka Concrete.Cast-In-Place.Flat.Grey.1.jpg
+map_Kd Concrete.Cast-In-Place.Flat.Grey.1.jpg
+newmtl Structure,_Wood_Joist/Rafter_Layer
+Ka 0.313725490196078 0.313725490196078 0.313725490196078
+Kd 0.313725490196078 0.313725490196078 0.313725490196078
+d 1
+newmtl Plywood,_Sheathing
+Ka 0.764705882352941 0.549019607843137 0.258823529411765
+Kd 0.764705882352941 0.549019607843137 0.258823529411765
+d 1
+map_Ka Finishes.Laminate.Plywood.jpg
+map_Kd Finishes.Laminate.Plywood.jpg
+newmtl Gypsum_Wall_Board
+Ka 0.894117647058824 0.894117647058824 0.894117647058824
+Kd 0.894117647058824 0.894117647058824 0.894117647058824
+d 1
+map_Ka Finishes.Gypsum_Board.Painted.White.jpg
+map_Kd Finishes.Gypsum_Board.Painted.White.jpg
+newmtl Siding,_Clapboard
+Ka 1 1 1
+Kd 1 1 1
+d 1
+map_Ka Thermal_-_Moisture.Roofing_-_Siding_Panels.Wood.Horizontal.jpg
+map_Kd Thermal_-_Moisture.Roofing_-_Siding_Panels.Wood.Horizontal.jpg
+newmtl Default_Wall
+Ka 0.313725490196078 0.313725490196078 0.313725490196078
+Kd 0.313725490196078 0.313725490196078 0.313725490196078
+d 1
+newmtl Wood_Panel_-_Garage_Door_-_With_Lines
+Ka 0.509803921568627 0.188235294117647 0.149019607843137
+Kd 0.509803921568627 0.188235294117647 0.149019607843137
+d 0
+map_Ka Woods_&_Plastics.Finish_Carpentry.Wood.Mahogany.png
+map_Kd Woods_&_Plastics.Finish_Carpentry.Wood.Mahogany.png
+newmtl Vinyl
+Ka 0.984313725490196 0.984313725490196 0.984313725490196
+Kd 0.984313725490196 0.984313725490196 0.984313725490196
+d 1
+newmtl Trim
+Ka 0.792156862745098 0.501960784313725 0.0705882352941176
+Kd 0.792156862745098 0.501960784313725 0.0705882352941176
+d 0
+map_Ka Woods_&_Plastics.Finish_Carpentry.Wood.Red_Birch.png
+map_Kd Woods_&_Plastics.Finish_Carpentry.Wood.Red_Birch.png
+newmtl Glass
+Ka 0.772549019607843 0.823529411764706 0.768627450980392
+Kd 0.772549019607843 0.823529411764706 0.768627450980392
+d 0.2
+newmtl Sash
+Ka 0.792156862745098 0.501960784313725 0.0705882352941176
+Kd 0.792156862745098 0.501960784313725 0.0705882352941176
+d 0
+map_Ka Woods_&_Plastics.Finish_Carpentry.Wood.Red_Birch.png
+map_Kd Woods_&_Plastics.Finish_Carpentry.Wood.Red_Birch.png
+newmtl Door_-_Panel
+Ka 0.462745098039216 0.290196078431373 0.0392156862745098
+Kd 0.462745098039216 0.290196078431373 0.0392156862745098
+d 0
+map_Ka Woods_&_Plastics.Finish_Carpentry.Wood.Red_Birch.png
+map_Kd Woods_&_Plastics.Finish_Carpentry.Wood.Red_Birch.png
+newmtl Door_-_Frame
+Ka 0.6 0.298039215686275 0.168627450980392
+Kd 0.6 0.298039215686275 0.168627450980392
+d 0
+newmtl Window-Sash
+Ka 0.313725490196078 0.313725490196078 0.313725490196078
+Kd 0.313725490196078 0.313725490196078 0.313725490196078
+d 1
+newmtl Roofing,_EPDM_Membrane
+Ka 0.0196078431372549 0.0196078431372549 0.0196078431372549
+Kd 0.0196078431372549 0.0196078431372549 0.0196078431372549
+d 0
+newmtl Paint-Brown
+Ka 0.780392156862745 0.411764705882353 0.00392156862745098
+Kd 0.780392156862745 0.411764705882353 0.00392156862745098
+d 0
+newmtl Paint-Red
+Ka 0.890196078431373 0 0
+Kd 0.890196078431373 0 0
+d 0
+newmtl Painting
+Ka 0.313725490196078 0.313725490196078 0.313725490196078
+Kd 0.313725490196078 0.313725490196078 0.313725490196078
+d 1
+newmtl Softwood,_Lumber
+Ka 0.815686274509804 0.474509803921569 0
+Kd 0.815686274509804 0.474509803921569 0
+d 0
+map_Ka Woods_&_Plastics.Finish_Carpentry.Wood.Pine.png
+map_Kd Woods_&_Plastics.Finish_Carpentry.Wood.Pine.png
+newmtl Wood_Shake
+Ka 1 1 1
+Kd 1 1 1
+d 1
+map_Ka Thermal_&_Moisture.Shakes.Weathered.Handsplit.png
+map_Kd Thermal_&_Moisture.Shakes.Weathered.Handsplit.png
+newmtl Deck
+Ka 0.764705882352941 0.549019607843137 0.258823529411765
+Kd 0.764705882352941 0.549019607843137 0.258823529411765
+d 1
+map_Ka Finishes.Laminate.Plywood.jpg
+map_Kd Finishes.Laminate.Plywood.jpg
+newmtl Metal_-_Bronze,_Light_Brush
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+newmtl Slate
+Ka 0.282352941176471 0.286274509803922 0.305882352941176
+Kd 0.282352941176471 0.286274509803922 0.305882352941176
+d 1
+map_Ka Masonry.Stone.Slate.jpg
+map_Kd Masonry.Stone.Slate.jpg
+newmtl Birch
+Ka 1 1 1
+Kd 1 1 1
+d 0
+map_Ka Woods_&_Plastics.Finish_Carpentry.Wood.Red_Birch.png
+map_Kd Woods_&_Plastics.Finish_Carpentry.Wood.Red_Birch.png
+newmtl Wood_Planks
+Ka 1 1 1
+Kd 1 1 1
+d 0
+map_Ka beechwood_natural.png
+map_Kd beechwood_natural.png
+newmtl Carpet_(1)
+Ka 1 1 1
+Kd 1 1 1
+d 1
+map_Ka Finishes.Flooring.Carpet.Gold.Colour.png
+map_Kd Finishes.Flooring.Carpet.Gold.Colour.png
+newmtl Tile,_Porcelain,_4in
+Ka 0.956862745098039 0.956862745098039 0.956862745098039
+Kd 0.956862745098039 0.956862745098039 0.956862745098039
+d 0
+newmtl Marble(1)
+Ka 0.470588235294118 0.470588235294118 0.470588235294118
+Kd 0.470588235294118 0.470588235294118 0.470588235294118
+d 0
+map_Ka Masonry.Stone.Marble.Square.Stacked.Polished.White.coarse.png
+map_Kd Masonry.Stone.Marble.Square.Stacked.Polished.White.coarse.png
+newmtl Steel,_Chrome_Plated
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+newmtl Steel,_Paint_Finish,_Ivory,_Glossy
+Ka 0.949019607843137 0.949019607843137 0.898039215686275
+Kd 0.949019607843137 0.949019607843137 0.898039215686275
+d 0
+newmtl Metal_-_Steel
+Ka 0.674509803921569 0.584313725490196 0.513725490196078
+Kd 0.674509803921569 0.584313725490196 0.513725490196078
+d 0
+newmtl Metal_-_Stainless_Steel,_Polished
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+newmtl Marble
+Ka 0.470588235294118 0.470588235294118 0.470588235294118
+Kd 0.470588235294118 0.470588235294118 0.470588235294118
+d 0
+map_Ka Masonry.Stone.Marble.Square.Stacked.Polished.White.coarse.png
+map_Kd Masonry.Stone.Marble.Square.Stacked.Polished.White.coarse.png
+newmtl Plastic,_Opaque_Black
+Ka 0.0196078431372549 0.0196078431372549 0.0196078431372549
+Kd 0.0196078431372549 0.0196078431372549 0.0196078431372549
+d 0.7
+newmtl Steel-Kohler-NA-Stainless
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+newmtl Plastic_-_Dacor_-_Black_-_Smooth
+Ka 0.0196078431372549 0.0196078431372549 0.0196078431372549
+Kd 0.0196078431372549 0.0196078431372549 0.0196078431372549
+d 0
+newmtl Paint_-_Dacor_-_Chrome
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+newmtl Plastic_-_Dacor_-_Black
+Ka 0.0196078431372549 0.0196078431372549 0.0196078431372549
+Kd 0.0196078431372549 0.0196078431372549 0.0196078431372549
+d 0
+newmtl Metal_-_Stainless_Steel_-_Dacor_-_Brushe
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+newmtl Steel_-_Dacor_-_Satin_-_Brown
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+newmtl Steel_-_Dacor_-_Satin
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+map_Ka Metals.Ornamental_Metals.Aluminum.Brushed.Random.png
+map_Kd Metals.Ornamental_Metals.Aluminum.Brushed.Random.png
+newmtl Iron_-_Dacor_-_Cast_-_Porcelain_Coated
+Ka 0.12156862745098 0.12156862745098 0.12156862745098
+Kd 0.12156862745098 0.12156862745098 0.12156862745098
+d 1
+newmtl Porcelain,_Ivory
+Ka 0.87843137254902 0.847058823529412 0.737254901960784
+Kd 0.87843137254902 0.847058823529412 0.737254901960784
+d 0
+newmtl Porcelain,_Linen
+Ka 0.83921568627451 0.788235294117647 0.749019607843137
+Kd 0.83921568627451 0.788235294117647 0.749019607843137
+d 0
+newmtl Laminate,_Linen,_Matte
+Ka 0 0 0
+Kd 0 0 0
+d 0
+map_Ka Woods_&_Plastics.Finish_Carpentry.Plastic_Laminates.Taupe.png
+map_Kd Woods_&_Plastics.Finish_Carpentry.Plastic_Laminates.Taupe.png
+newmtl Snap_Locations
+Ka 0.501960784313725 0.501960784313725 0.501960784313725
+Kd 0.501960784313725 0.501960784313725 0.501960784313725
+d 0
+newmtl Vitreous_China_-_Kohler_-_White
+Ka 0.956862745098039 0.956862745098039 0.956862745098039
+Kd 0.956862745098039 0.956862745098039 0.956862745098039
+d 0
+newmtl Steel,_Paint_Finish,_Ivory,_Matte
+Ka 0.847058823529412 0.847058823529412 0.8
+Kd 0.847058823529412 0.847058823529412 0.8
+d 0
+newmtl Steel,_Polished
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+newmtl Stone
+Ka 1 1 1
+Kd 1 1 1
+d 0
+map_Ka Masonry.Stone.Unfinished.png
+map_Kd Masonry.Stone.Unfinished.png
+newmtl Brick,_Common
+Ka 0.470588235294118 0.470588235294118 0.470588235294118
+Kd 0.470588235294118 0.470588235294118 0.470588235294118
+d 0
+map_Ka Brick_Non_Uniform_Running_Burgundy.png
+map_Kd Brick_Non_Uniform_Running_Burgundy.png
+newmtl Wood_(Oak)
+Ka 0.627450980392157 0.152941176470588 0
+Kd 0.627450980392157 0.152941176470588 0
+d 0
+map_Ka Woods_&_Plastics.Finish_Carpentry.Wood.White_Oak.png
+map_Kd Woods_&_Plastics.Finish_Carpentry.Wood.White_Oak.png
+newmtl Stainless_Steel
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+newmtl Steel,_Paint_Finish,_Dark_Gray,_Matte
+Ka 0.266666666666667 0.266666666666667 0.266666666666667
+Kd 0.266666666666667 0.266666666666667 0.266666666666667
+d 0
+newmtl Limestone
+Ka 0.647058823529412 0.627450980392157 0.588235294117647
+Kd 0.647058823529412 0.627450980392157 0.588235294117647
+d 1
+map_Ka Masonry.Stone.Limestone.Ashlar.Coursed.jpg
+map_Kd Masonry.Stone.Limestone.Ashlar.Coursed.jpg
+newmtl Concrete,_Precast
+Ka 0.509803921568627 0.52156862745098 0.466666666666667
+Kd 0.509803921568627 0.52156862745098 0.466666666666667
+d 1
+map_Ka Concrete.Precast_Structural_Concrete.Smooth.jpg
+map_Kd Concrete.Precast_Structural_Concrete.Smooth.jpg
+newmtl Steel_ASTM_A53
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 1
+map_Ka Steelplt.png
+map_Kd Steelplt.png
+newmtl Oak,_White
+Ka 1 1 1
+Kd 1 1 1
+d 0
+map_Ka Woods_&_Plastics.Finish_Carpentry.Wood.White_Oak.png
+map_Kd Woods_&_Plastics.Finish_Carpentry.Wood.White_Oak.png
+newmtl Default
+Ka 0.313725490196078 0.313725490196078 0.313725490196078
+Kd 0.313725490196078 0.313725490196078 0.313725490196078
+d 1
+newmtl Walnut
+Ka 0.941176470588235 0.443137254901961 0.156862745098039
+Kd 0.941176470588235 0.443137254901961 0.156862745098039
+d 0
+map_Ka Woods_&_Plastics.Finish_Carpentry.Wood.Walnut.png
+map_Kd Woods_&_Plastics.Finish_Carpentry.Wood.Walnut.png
+newmtl Grass
+Ka 1 1 1
+Kd 1 1 1
+d 1
+map_Ka Sitework.Planting.Grass.Thick.png
+map_Kd Sitework.Planting.Grass.Thick.png
+newmtl Pool_water
+Ka 0.0392156862745098 0.286274509803922 0.666666666666667
+Kd 0.0392156862745098 0.286274509803922 0.666666666666667
+d 0.4
+newmtl Pool_covering
+Ka 1 1 1
+Kd 1 1 1
+d 0
+map_Ka Finishes.Flooring.Tile.Square.Slate_Blue.png
+map_Kd Finishes.Flooring.Tile.Square.Slate_Blue.png
+newmtl Pool_Glass
+Ka 0.772549019607843 0.823529411764706 0.768627450980392
+Kd 0.772549019607843 0.823529411764706 0.768627450980392
+d 0.2
+newmtl Pool_deck
+Ka 0.470588235294118 0.470588235294118 0.470588235294118
+Kd 0.470588235294118 0.470588235294118 0.470588235294118
+d 0
+
