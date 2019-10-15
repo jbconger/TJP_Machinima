@@ -1,0 +1,80 @@
+# Blender MTL File: 'Desktop (27).blend'
+# Material Count: 6
+
+newmtl Wood_A_(Variant_1)
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 3.300000 -s 2.000000 2.000000 2.000000 Desktop Scene\\Textures\\WoodFlooring061\\WoodFlooring061_NRM_3K.jpg
+map_Kd -s 2.000000 2.000000 2.000000 Desktop Scene\\Textures\\WoodFlooring061\\WoodFlooring061_COL_3K.jpg
+map_Ks -s 2.000000 2.000000 2.000000 Desktop Scene\\Textures\\WoodFlooring061\\WoodFlooring061_REFL_3K.jpg
+
+newmtl Wood_A_(Variant_2)
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 3.300000 -s 2.000000 2.000000 2.000000 Desktop Scene\\Textures\\WoodFlooring061\\WoodFlooring061_NRM_3K.jpg
+map_Kd -s 2.000000 2.000000 2.000000 Desktop Scene\\Textures\\WoodFlooring061\\WoodFlooring061_COL_3K.jpg
+map_Ks -s 2.000000 2.000000 2.000000 Desktop Scene\\Textures\\WoodFlooring061\\WoodFlooring061_REFL_3K.jpg
+
+newmtl Wood_A_(Variant_3)
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 3.300000 -s 1.000000 1.000000 2.000000 Desktop Scene\\Textures\\WoodFlooring061\\WoodFlooring061_NRM_3K.jpg
+map_Kd -s 1.000000 1.000000 2.000000 Desktop Scene\\Textures\\WoodFlooring061\\WoodFlooring061_COL_3K.jpg
+map_Ks -s 1.000000 1.000000 2.000000 Desktop Scene\\Textures\\WoodFlooring061\\WoodFlooring061_REFL_3K.jpg
+
+newmtl Wood_A_(Variant_4)
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 3.300000 -s 1.000000 1.000000 2.000000 Desktop Scene\\Textures\\WoodFlooring061\\WoodFlooring061_NRM_3K.jpg
+map_Kd -s 1.000000 1.000000 2.000000 Desktop Scene\\Textures\\WoodFlooring061\\WoodFlooring061_COL_3K.jpg
+map_Ks -s 1.000000 1.000000 2.000000 Desktop Scene\\Textures\\WoodFlooring061\\WoodFlooring061_REFL_3K.jpg
+
+newmtl Wood_A_(Variant_5)
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 3.300000 -s 1.000000 1.000000 2.000000 Desktop Scene\\Textures\\WoodFlooring061\\WoodFlooring061_NRM_3K.jpg
+map_Kd -s 1.000000 1.000000 2.000000 Desktop Scene\\Textures\\WoodFlooring061\\WoodFlooring061_COL_3K.jpg
+map_Ks -s 1.000000 1.000000 2.000000 Desktop Scene\\Textures\\WoodFlooring061\\WoodFlooring061_REFL_3K.jpg
+
+newmtl Wood_B_(Variant_1)
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 3.300000 -s 2.000000 2.000000 2.000000 Desktop Scene\\Textures\\WoodQuarteredChiffon001\\WoodQuarteredChiffon001_NRM_3K.jpg
+map_Kd -s 2.000000 2.000000 2.000000 Desktop Scene\\Textures\\WoodQuarteredChiffon001\\WoodQuarteredChiffon001_COL_3K.jpg
+map_Ks -s 2.000000 2.000000 2.000000 Desktop Scene\\Textures\\WoodQuarteredChiffon001\\WoodQuarteredChiffon001_REFL_3K.jpg
