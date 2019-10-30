@@ -1,0 +1,100 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 30.09.2015 12:41:31
+
+newmtl Object035_mtl
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 1.0000 1.0000 1.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 1.0000 1.0000 1.0000
+	map_Ka Object035_2015-09-30_12-36-22_complete.rpf_converted.jpg
+	map_Kd Object035_2015-09-30_12-36-22_complete.rpf_converted.jpg
+
+newmtl Object036_mtl
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 1.0000 1.0000 1.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 1.0000 1.0000 1.0000
+	map_Ka Object036_2015-09-30_11-36-39_complete.rpf_converted.jpg
+	map_Kd Object036_2015-09-30_11-36-39_complete.rpf_converted.jpg
+
+newmtl Object037_mtl
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 1.0000 1.0000 1.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 1.0000 1.0000 1.0000
+	map_Ka Object037_2015-09-30_11-37-55_complete.rpf_converted.jpg
+	map_Kd Object037_2015-09-30_11-37-55_complete.rpf_converted.jpg
+
+newmtl Object038_mtl
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 1.0000 1.0000 1.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 1.0000 1.0000 1.0000
+	map_Ka Object038_2015-09-30_11-48-28_complete.rpf_converted.jpg
+	map_Kd Object038_2015-09-30_11-48-28_complete.rpf_converted.jpg
+
+newmtl Object039_mtl
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 1.0000 1.0000 1.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 1.0000 1.0000 1.0000
+	map_Ka Object039_2015-09-30_12-00-35_complete.rpf_converted.jpg
+	map_Kd Object039_2015-09-30_12-00-35_complete.rpf_converted.jpg
+
+newmtl Object040_mtl
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 1.0000 1.0000 1.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 1.0000 1.0000 1.0000
+	map_Ka Object040_2015-09-30_12-08-09_complete.rpf_converted.jpg
+	map_Kd Object040_2015-09-30_12-08-09_complete.rpf_converted.jpg
+
+newmtl Object041_mtl
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 1.0000 1.0000 1.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 1.0000 1.0000 1.0000
+	map_Ka Object041_2015-09-30_12-29-09_complete.rpf_converted.jpg
+	map_Kd Object041_2015-09-30_12-29-09_complete.rpf_converted.jpg
